@@ -2,7 +2,7 @@
 <h2 align="center">Passionate Software Engineer: Crafting Innovative Solutions and Bringing Ideas to Life</h2>
 
 
-<img src="" alt="an imge for the"/>
+<img src="gitB.png" alt="banner img"/>
 
 <h2>About me</h2>
 <p>I'm Rom Ihia, a software engineering student with a passion for coding and projects. I love exploring new technologies and embracing the ever-changing world of software development. Let's collaborate and create innovative solutions together!</p>
